@@ -1,8 +1,11 @@
+@import url(http://fonts.googleapis.com/css?family=Oxygen);
 body {
 	background-color: green
 }
 h1{
 	color: white;
+	font-family: "Oxygen"
+
 }
 #slogan{
 	font-style: italic;
