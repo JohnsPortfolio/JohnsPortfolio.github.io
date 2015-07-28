@@ -1,0 +1,19 @@
+@import url(http://fonts.googleapis.com/css?family=Cutive+Mono);
+body {
+	background-color: white;
+}
+h1{
+	color: black;
+	font-family: "Cutive Mono";
+
+}
+/*#slogan{
+	font-style: italic;
+}
+*/
+
+.wrapper {
+  display: grid;
+  grid-template-columns: 100px 10px 100px 10px 100px;
+  grid-template-rows: auto 10px auto;
+}
