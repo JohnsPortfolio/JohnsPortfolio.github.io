@@ -7,13 +7,12 @@ h1{
 	font-family: "Cutive Mono";
 
 }
-/*#slogan{
-	font-style: italic;
+.underline {
+	text-decoration: underline;
+	font-weight: bold;
 }
-*/
 
-.wrapper {
-  display: grid;
-  grid-template-columns: 100px 10px 100px 10px 100px;
-  grid-template-rows: auto 10px auto;
+.contact {
+
+	font-size: .9em;
 }
