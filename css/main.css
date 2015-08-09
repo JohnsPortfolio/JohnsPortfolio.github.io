@@ -2,6 +2,11 @@
 body {
 	background-color: white;
 }
+
+.image { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
 h1{
 	color: black;
 	font-family: "Cutive Mono";
