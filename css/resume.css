@@ -1,18 +1,27 @@
 @import url(http://fonts.googleapis.com/css?family=Cutive+Mono);
 body {
-	background-color: white;
+  background-color: white;
 }
-h1{
-	color: black;
-	font-family: "Cutive Mono";
+
+.container {
+  position: relative;
+}
+.form_contact {
+  float: left;
+  left: 0px;
+  width: 200px;
+}
+.underline { 
+  text-decoration: underline;
+  font-weight: bold;
 
 }
-.underline {
-	text-decoration: underline;
-	font-weight: bold;
+h1 {
+  color: black;
+  font-family: "Cutive Mono";
+
 }
 
 .contact {
-
-	font-size: .9em;
-}
+  font-size: .9em;
+} 
