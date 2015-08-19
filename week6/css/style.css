@@ -21,7 +21,7 @@ a {
 }
 
 body {
-	text-align: center;
+	text-align: left;
 }
 
 h1 {
@@ -31,7 +31,7 @@ h1 {
 }
 
 header {
-	background: green ;
+	background: blue ;
 }
 
 nav {
@@ -49,3 +49,16 @@ nav {
 	float: left;
 	display: inline;
 }
+
+
+#logo {
+	float: left;
+	padding-top: 8px 0 0 20px;
+	position: fixed;
+	top: 30px;
+	left: 30px;
+	width: 98px;
+}
+
+
+
